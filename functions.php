@@ -8,8 +8,6 @@
     require_once dirname( __FILE__ ). '/inc/cmb2/init.php';
     require_once dirname( __FILE__ ). '/inc/cmb2/custom.php';
 
-    // Shortcode 
-    include __DIR__ . '/shortcode.php';
 
     function portfolio_theme_setup(){
         add_theme_support( 'post-thumbnails' );
