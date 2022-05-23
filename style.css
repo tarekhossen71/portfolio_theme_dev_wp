@@ -1,0 +1,30 @@
+/* 
+    Theme Name: Portfolio
+    Theme URI: http://portfolio.com
+    Author: Tarek
+    Author URI: http://tarek.com
+    Description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, cumque accusamus rerum odio enim expedita odit veniam dolor nisi in.
+    Version: 1.0.0
+    Text Domain: portfolio
+
+*/
+.img-fluid.rounded-circle.mx-auto.mb-3.testimonial-img.wp-post-image{
+  width: 80px;
+  height: 80px;
+}
+.footer-menu-list-style{
+  list-style: none;
+
+}
+.footer-menu-list-style li a {
+  color: #fff;
+  padding-left: 0;
+}
+/*.footer-menu-list-style li a > span{
+  display: block;
+}
+
+.footer-menu-list-style li a > span:last-child{
+  display: none;
+}
+*/
